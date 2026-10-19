@@ -1,0 +1,4 @@
+1,Fundamentele Programarii,Istrate Horia
+2,Analiza Matematica,Robert Vasile
+3,Logica Computationala,Popa Anca
+4,Arhitectura Sistemelor,Vatuiu Teodora
